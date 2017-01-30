@@ -1,4 +1,4 @@
-# Notes on using linux shell (bash)
+# On Linux shell (bash)
 
 ## Shortcuts
 

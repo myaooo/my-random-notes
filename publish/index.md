@@ -3,6 +3,11 @@ title: Random Notes
 date: 2017-01-30 15:38:29
 ---
 
+# About the Notes
+
+This is a notebook of all the random ideas, knowledge, reflections and so on.
+
+Hope that some of the contents might be useful for you.
 # Notes on using linux shell (bash)
 
 ## Shortcuts
@@ -33,7 +38,8 @@ Run a command in background process. With an "&" at the end of the file
 
 e.g. nohup python -m xxx.xxx > nohup.log &
 
-# Random Notes in Research
+
+# Random Notes on Research
 
 ## Jan 13th
 
@@ -66,7 +72,7 @@ Contributions can be of many things.
 
 * new techniques in related fields may 
 
-# Notes about Visualization Design 
+# About Visualization Design 
 
 
 ## Temporal Event **Sequence Visualization**
