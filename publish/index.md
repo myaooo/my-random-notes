@@ -1,3 +1,39 @@
+---
+title: Random Notes
+date: 2017-01-30 15:38:29
+---
+    
+
+# Notes on using linux shell (bash)
+
+## Shortcuts
+
+* crtl + a: Move cursor to the beginning of the line (ahead of line)
+* crtl + e: Move cursor to the end of the line
+* crtl + u: delete the current line
+* crtl + k: delete the content after the cursor of the current line 
+* crtl + l: clear the screen
+
+
+## Commands
+
+### ls
+
+List contents of current directory.
+
+Useful params:
+* **-l**: list the contents in long format (including many detailed information)
+* **-a**: also list the directory with dot (.) in the beginning
+
+### grep
+
+
+### nohup (no hang up)
+
+Run a command in background process. With an "&" at the end of the file
+
+e.g. nohup python -m xxx.xxx > nohup.log &
+
 # Random Notes in Research
 
 ## Jan 13th
@@ -30,3 +66,16 @@ Contributions can be of many things.
 ### Always pay attention te new techniques in related fields
 
 * new techniques in related fields may 
+
+# Notes about Visualization Design 
+
+
+## Temporal Event **Sequence Visualization**
+
+How to visualize **Sequence**?
+
+Might be inspiring in RNN Vis.
+Words may be regard as events with various importance in a sequence. We may try to encode a mapping from hidden information (states, activations) to visual artifacts in the sequence visualization.
+
+**TODO**: talk to Quan / Qing about sequence visualization
+
