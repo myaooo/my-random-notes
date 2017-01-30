@@ -1,4 +1,4 @@
-# Notes about Visualization Design 
+# About Visualization Design 
 
 
 ## Temporal Event **Sequence Visualization**

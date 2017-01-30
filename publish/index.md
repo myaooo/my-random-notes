@@ -2,7 +2,6 @@
 title: Random Notes
 date: 2017-01-30 15:38:29
 ---
-    
 
 # Notes on using linux shell (bash)
 

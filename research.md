@@ -1,4 +1,4 @@
-# Random Notes in Research
+# Random Notes on Research
 
 ## Jan 13th
 
