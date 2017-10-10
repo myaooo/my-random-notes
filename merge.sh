@@ -7,5 +7,6 @@ for file in *.md
 do
     echo "cat $file..."
     cat $file >> ./publish/index.md
-    echo "" >> ./publish/index.md
+    echo " " >> ./publish/index.md
+    echo " " >> ./publish/index.md
 done

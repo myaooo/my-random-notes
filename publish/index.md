@@ -8,6 +8,7 @@ date: 2017-01-30 15:38:29
 This is a notebook of all the random ideas, knowledge, reflections and so on.
 
 Hope that some of the contents might be useful for you.
+
 # On Linux shell (bash)
 
 ## Shortcuts
@@ -37,8 +38,27 @@ Useful params:
 Run a command in background process. With an "&" at the end of the file
 
 e.g. nohup python -m xxx.xxx > nohup.log &
+ 
+ 
+# Machine Learning
 
-# 
+Empty!
+ 
+ 
+# About Presentation
+
+## Presentation for academic purpose
+
+### PQE
+
+1. Fluent transition between subsections. Remember to note the bigger picture from time to time.
+
+2. For the literature review part, remember to discuss the pros and cons of existing work with an objective  view.
+
+3. For presentation, don't fill it with your whole paper. Presenting 30% of the content clearly is better than pouring 100% of blurry concepts.
+
+4. For PQE/survey, spend a bit more time on the challenges that are faced in your topic area. 
+ 
 # Random Notes on Research
 
 ## Jan 13th
@@ -78,16 +98,25 @@ Contributions can be of many things.
 
 Explicit nav or hidden nav?
 
+ 
+ 
+# Random Notes about Visualization and Visualization Research 
 
-# About Visualization Design 
+## Design of Data Visualization
 
-
-## Temporal Event **Sequence Visualization**
+### Temporal Event **Sequence Visualization**
 
 How to visualize **Sequence**?
 
 Might be inspiring in RNN Vis.
 Words may be regard as events with various importance in a sequence. We may try to encode a mapping from hidden information (states, activations) to visual artifacts in the sequence visualization.
 
-**TODO**: talk to Quan / Qing about sequence visualization
+## Problems that are frequently asked by non-expert in visualization
 
+1. What is the research questions of visualization research?
+
+2. How do you evaluate visual analytics techniques?
+
+3. Why we need qualitative methods (like visualization) when we have quantitative measures?
+ 
+ 
