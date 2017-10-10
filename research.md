@@ -29,4 +29,11 @@ Contributions can be of many things.
 
 ### Always pay attention te new techniques in related fields
 
-* new techniques in related fields may 
+* new techniques in related fields may ...
+
+
+
+-----------
+
+Explicit nav or hidden nav?
+

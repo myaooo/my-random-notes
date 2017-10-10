@@ -8,7 +8,7 @@ date: 2017-01-30 15:38:29
 This is a notebook of all the random ideas, knowledge, reflections and so on.
 
 Hope that some of the contents might be useful for you.
-# Notes on using linux shell (bash)
+# On Linux shell (bash)
 
 ## Shortcuts
 
@@ -38,7 +38,7 @@ Run a command in background process. With an "&" at the end of the file
 
 e.g. nohup python -m xxx.xxx > nohup.log &
 
-
+# 
 # Random Notes on Research
 
 ## Jan 13th
@@ -70,7 +70,14 @@ Contributions can be of many things.
 
 ### Always pay attention te new techniques in related fields
 
-* new techniques in related fields may 
+* new techniques in related fields may ...
+
+
+
+-----------
+
+Explicit nav or hidden nav?
+
 
 # About Visualization Design 
 
